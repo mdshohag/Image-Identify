@@ -2,6 +2,7 @@
 Using Python, Flask, TensorFlow, and Pillow technologies for image recognition.
 
 python -m pip --version
+
 pip install --upgrade pip
 
 python -m pip install flask
